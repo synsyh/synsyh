@@ -1,9 +1,6 @@
 ### Hi there 👋
 ### I am Yuning Sun, a developer from China.
 
-<!--
-**synsyh/synsyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Skills
 ## Operating system 
 ![macOS](http://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos)
@@ -29,4 +26,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
