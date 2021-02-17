@@ -6,7 +6,7 @@
 ![macOS](http://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logocolor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
-![Shell](http://img.shields.io/badge/-Shell-FFD500?style=flat-square&logo=shell)
+![Shell](http://img.shields.io/badge/-Shell-FFD500?style=flat-square&logo=shell&logocolor=000000)
 
 ## Language
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
