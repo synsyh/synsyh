@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Yuning Sun, a developer from China.
+# I am Yuning Sun, a developer from China.
 
 ### Skills
 ## Operating system 
