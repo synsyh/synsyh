@@ -4,7 +4,7 @@ I am Yuning Sun, a developer from China, currently living in New Jersey.
 - 🎓 I just got a master's degree in software engineering
 - 💻 I’m looking for a job related to web dev. or machine learning
 - 🐱 I’m a cataholic
-- 📮 How to reach me: <ysyuningsun@gmail.com>
+- 📮 How to reach me: <sun.yuning@outlook.com>
 ## Skills
 - Operating system:   
 ![macOS](http://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos)
