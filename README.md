@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am Yuning Sun, a developer from China, currently living in New Jersey.
-- 🔭 I’m currently looking for a full-time job in North America 
-- 🎓 I just got a master's degree in software engineering
-- 💻 I’m looking for a job related to web dev. or machine learning
+I am Yuning Sun - 
+- 🔭 I’m working at Google
+- 🎓 I got a master's degree in software engineering
+- 💻 I’m working on Google Docs / Sheets / Slides iOS Platform. 
 - 🐱 I’m a cataholic
 - 📮 How to reach me: <sun.yuning@outlook.com>
 ## Skills
